@@ -1,2 +1,2 @@
 # jenkins-sonarqube-docker2
-project
+echo "jenkins-sonarQube-Project
